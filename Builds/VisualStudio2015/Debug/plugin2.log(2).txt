@@ -1,0 +1,10 @@
+﻿  PluginEditor.cpp
+  juce_RTAS_DigiCode1.cpp
+  juce_RTAS_DigiCode2.cpp
+  juce_RTAS_DigiCode3.cpp
+  juce_RTAS_WinUtilities.cpp
+  juce_RTAS_Wrapper.cpp
+ImageSlider.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+     Creating library C:\Users\Andrew\Documents\Senior Design\plugin2\Builds\VisualStudio2015\Debug\plugin2.lib and object C:\Users\Andrew\Documents\Senior Design\plugin2\Builds\VisualStudio2015\Debug\plugin2.exp
+  plugin2.vcxproj -> C:\Users\Andrew\Documents\Senior Design\plugin2\Builds\VisualStudio2015\Debug\plugin2.dll
+          1 file(s) copied.

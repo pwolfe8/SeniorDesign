@@ -1,0 +1,47 @@
+﻿  ImageSlider.cpp
+  ImageKnob.cpp
+  PluginProcessor.cpp
+  PluginEditor.cpp
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\imageslider.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\imageslider.cpp(45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\pluginprocessor.cpp(69): warning C4100: 'index': unreferenced formal parameter
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\pluginprocessor.cpp(73): warning C4100: 'index': unreferenced formal parameter
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\pluginprocessor.cpp(78): warning C4100: 'newName': unreferenced formal parameter
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\pluginprocessor.cpp(78): warning C4100: 'index': unreferenced formal parameter
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\pluginprocessor.cpp(83): warning C4100: 'samplesPerBlock': unreferenced formal parameter
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\pluginprocessor.cpp(83): warning C4100: 'theSampleRate': unreferenced formal parameter
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\pluginprocessor.cpp(95): warning C4100: 'midiMessages': unreferenced formal parameter
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\pluginprocessor.cpp(113): warning C4189: 'channelData': local variable is initialized but not referenced
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\pluginprocessor.cpp(131): warning C4100: 'destData': unreferenced formal parameter
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\pluginprocessor.cpp(138): warning C4100: 'sizeInBytes': unreferenced formal parameter
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\pluginprocessor.cpp(138): warning C4100: 'data': unreferenced formal parameter
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\imageknob.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\imageknob.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\plugineditor.cpp(195): warning C4100: 'index': unreferenced formal parameter
+c:\users\pwolfe854\documents\juceprojs\plugin2\source\plugineditor.cpp(206): warning C4100: 'index': unreferenced formal parameter
+  juce_AAX_Wrapper.cpp
+  juce_audio_basics.cpp
+  juce_audio_devices.cpp
+  juce_audio_formats.cpp
+  juce_audio_processors.cpp
+  juce_core.cpp
+  juce_cryptography.cpp
+  juce_data_structures.cpp
+  juce_events.cpp
+  juce_graphics.cpp
+  juce_gui_basics.cpp
+  juce_gui_extra.cpp
+  juce_opengl.cpp
+  juce_PluginUtilities.cpp
+  juce_video.cpp
+  juce_VST_Wrapper.cpp
+  juce_VST3_Wrapper.cpp
+  juce_RTAS_DigiCode1.cpp
+  juce_RTAS_DigiCode2.cpp
+  juce_RTAS_DigiCode3.cpp
+  juce_RTAS_WinUtilities.cpp
+  juce_RTAS_Wrapper.cpp
+ImageSlider.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+     Creating library C:\Users\pwolfe854\Documents\JUCEprojs\plugin2\Builds\VisualStudio2015\Debug\plugin2.lib and object C:\Users\pwolfe854\Documents\JUCEprojs\plugin2\Builds\VisualStudio2015\Debug\plugin2.exp
+  plugin2.vcxproj -> C:\Users\pwolfe854\Documents\JUCEprojs\plugin2\Builds\VisualStudio2015\Debug\plugin2.dll
+          1 file(s) copied.

@@ -1,0 +1,14 @@
+﻿  PluginEditor.cpp
+..\..\Source\PluginEditor.cpp(196): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'juce::String'
+..\..\Source\PluginEditor.cpp(238): warning C4244: '=': conversion from 'int' to 'juce::uint8', possible loss of data
+..\..\Source\PluginEditor.cpp(243): warning C4244: '=': conversion from 'int' to 'juce::uint8', possible loss of data
+..\..\Source\PluginEditor.cpp(248): warning C4244: '=': conversion from 'int' to 'juce::uint8', possible loss of data
+..\..\Source\PluginEditor.cpp(253): warning C4244: '=': conversion from 'int' to 'juce::uint8', possible loss of data
+..\..\Source\PluginEditor.cpp(258): warning C4244: '=': conversion from 'int' to 'juce::uint8', possible loss of data
+..\..\Source\PluginEditor.cpp(287): warning C4100: 'index': unreferenced formal parameter
+..\..\Source\PluginEditor.cpp(298): warning C4100: 'index': unreferenced formal parameter
+     Creating library C:\VSTPlugins\plugin2.lib and object C:\VSTPlugins\plugin2.exp
+  Generating code
+  Finished generating code
+  plugin2.vcxproj -> C:\VSTPlugins\plugin2.dll
+          1 file(s) copied.

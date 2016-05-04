@@ -1,0 +1,17 @@
+﻿  PluginEditor.cpp
+  PluginProcessor.cpp
+c:\users\swacsp\documents\juceprojs\plugin2\source\pluginprocessor.cpp(69): warning C4100: 'index': unreferenced formal parameter
+c:\users\swacsp\documents\juceprojs\plugin2\source\pluginprocessor.cpp(73): warning C4100: 'index': unreferenced formal parameter
+c:\users\swacsp\documents\juceprojs\plugin2\source\pluginprocessor.cpp(78): warning C4100: 'newName': unreferenced formal parameter
+c:\users\swacsp\documents\juceprojs\plugin2\source\pluginprocessor.cpp(78): warning C4100: 'index': unreferenced formal parameter
+c:\users\swacsp\documents\juceprojs\plugin2\source\pluginprocessor.cpp(83): warning C4100: 'samplesPerBlock': unreferenced formal parameter
+c:\users\swacsp\documents\juceprojs\plugin2\source\pluginprocessor.cpp(83): warning C4100: 'theSampleRate': unreferenced formal parameter
+c:\users\swacsp\documents\juceprojs\plugin2\source\pluginprocessor.cpp(95): warning C4100: 'midiMessages': unreferenced formal parameter
+c:\users\swacsp\documents\juceprojs\plugin2\source\pluginprocessor.cpp(113): warning C4189: 'channelData': local variable is initialized but not referenced
+c:\users\swacsp\documents\juceprojs\plugin2\source\pluginprocessor.cpp(131): warning C4100: 'destData': unreferenced formal parameter
+c:\users\swacsp\documents\juceprojs\plugin2\source\pluginprocessor.cpp(138): warning C4100: 'sizeInBytes': unreferenced formal parameter
+c:\users\swacsp\documents\juceprojs\plugin2\source\pluginprocessor.cpp(138): warning C4100: 'data': unreferenced formal parameter
+ImageCheckbox.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+     Creating library C:\Users\Swacsp\Documents\JUCEprojs\plugin2\Builds\VisualStudio2015\Debug\plugin2.lib and object C:\Users\Swacsp\Documents\JUCEprojs\plugin2\Builds\VisualStudio2015\Debug\plugin2.exp
+  plugin2.vcxproj -> C:\Users\Swacsp\Documents\JUCEprojs\plugin2\Builds\VisualStudio2015\Debug\plugin2.dll
+          1 file(s) copied.

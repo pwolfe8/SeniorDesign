@@ -1,0 +1,6 @@
+﻿  PluginEditor.cpp
+     Creating library C:\Users\Swacsp\Documents\JUCEprojs\plugin2\Builds\VisualStudio2015\Release\plugin2.lib and object C:\Users\Swacsp\Documents\JUCEprojs\plugin2\Builds\VisualStudio2015\Release\plugin2.exp
+  Generating code
+  Finished generating code
+  plugin2.vcxproj -> C:\Users\Swacsp\Documents\JUCEprojs\plugin2\Builds\VisualStudio2015\Release\plugin2.dll
+          1 file(s) copied.
